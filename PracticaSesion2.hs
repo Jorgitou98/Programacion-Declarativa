@@ -166,7 +166,7 @@ foldlN f (x:y:xs) = foldlN f (f x y: xs)
 
 paresCuadrados:: (Num a, Enum a) => a -> [(a,a)]
 
-paresCuadrados n = let x = reverse [0..n] in zip x (map (^2) x)
+paresCuadrados n = zip [n,n-1..0] (map (^2) [n,n-1..0])
 
 -------------------------------------------------
 
