@@ -53,5 +53,5 @@ La [Sesión 6](https://github.com/Jorgitou98/Programacion-Declarativa/tree/maste
 
 La [Sesión 7](https://github.com/Jorgitou98/Programacion-Declarativa/tree/master/Sesion%207) profundiza en aspectos más complejos y técnicos:
 
-- Uso del corte en Prolog: `!`
-- Predicados predefinidos para manejo de átomos (`atomic, .. [_|List]`)
+- Uso del **corte** en Prolog: `!`
+- Predicados predefinidos para manejo de **átomos** y listas (`atomic, .. [_|List]`)
