@@ -3,7 +3,7 @@
 
 La carpeta **Prácticas de Haskell** consta de 5 sesiones prácticas incrementales donde se ponen en práctica fundamentos de la programación declarativa desarrollados concretamente en Haskell.
 
-La [Sesión 1]() trabaja:
+La [Sesión 1](https://github.com/Jorgitou98/Haskell-Programacion-Declarativa/tree/master/Sesion%201) trabaja:
 
  - Declaraciones locales `let`
  - Uso de guardas para declaración de funciones
