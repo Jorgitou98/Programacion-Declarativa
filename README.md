@@ -1,7 +1,7 @@
 
 # Prácticas de Haskell
 
-La carpeta **Prácticas de Haskell** consta de 5 sesiones prácticas incrementales donde se ponen en práctica fundamentos de la programación declarativa desarrollados concretamente en Haskell.
+Este repositorio consta de 5 sesiones prácticas incrementales donde se ponen en práctica fundamentos de la programación declarativa desarrollados en **Haskell**.
 
 La [Sesión 1](https://github.com/Jorgitou98/Haskell-Programacion-Declarativa/tree/master/Sesion%201) trabaja:
 
